@@ -1,0 +1,12 @@
+.btn {
+  --button-unit: 1rem;
+ padding: var(--button-unit);             
+}
+
+.btn-small {
+ --button-unit: 0.5rem;
+}
+
+.btn-Large {
+  --button-unit: 1.5rem;
+}
